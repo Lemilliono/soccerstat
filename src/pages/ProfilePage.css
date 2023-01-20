@@ -1,0 +1,32 @@
+@font-face {
+    font-family: Bebas;
+    src: url(../../public/Bebas.ttf);
+}
+
+.Selecto {
+    text-align: center;
+    color: white;
+    font-family: Bebas;
+    font-size: x-large;
+}
+
+.cris {
+    max-width: 8%;
+    margin-left: 47%;
+    margin-top: 5%;
+    border-radius: 155px;
+}
+
+.apello {
+    background-color: black;
+    color: white;
+    font-family: Bebas;
+    text-align: center;
+}
+
+.texto {
+    background-color: black;
+    color: white;
+    font-family: Bebas;
+    text-align: center;
+}

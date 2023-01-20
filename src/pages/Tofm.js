@@ -39,7 +39,7 @@ return (
         <div className="florence">
             <img className="florence1" src={florence1} alt="Equipe du mois" />
             <div class="hwrap"><div class="hmove">
-            <div class="hitem">Milieu de terrain numéro 8 : Florence HU. 3 passes décisives & 62/69 passes réussis.</div>
+            <div class="hitem">Milieu de terrain numéro 8 : Florence HU. 5 buts & 3 passes décisives, 62/69 passes réussis.</div>
 </div></div>
         </div></>
         <div className="linda">
