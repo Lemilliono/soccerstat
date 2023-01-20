@@ -1,0 +1,69 @@
+@font-face {
+    font-family: Bebas;
+    src: url(../../public/Bebas.ttf);
+ }
+
+  .form-container {
+    background-color: rgba(255, 255, 255, 0.8);
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 15%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /*background-color: rgb(11, 4, 50);*/
+    padding: 20px;
+    border-radius: 10px;
+  }
+
+  .Register {
+    background-color: #010904;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 1em;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+    font-family: Bebas;
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  label {
+    margin: 10px 0;
+    text-align: left;
+    font-family: Bebas;
+    color:rgb(10, 9, 9);
+  }
+  
+  input {
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    border: none;
+    font-size: 1em;
+  }
+  
+  button[type="submit"] {
+    background-color: #010904;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 1em;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+    font-family: Bebas;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #010904;
+  }
+
+  
+  

@@ -1,0 +1,265 @@
+@font-face {
+    font-family: Bebas;
+    src: url(../../public/Bebas.ttf);
+}
+
+.tofm {
+    color: black;
+    font-family: Bebas;
+    text-align: center;
+    background-color: #fff;
+}
+
+
+.hwrap {
+    overflow: hidden; 
+    background: white;
+    color: black;
+  }
+   
+  .hmove { 
+    display: flex;
+    color: black;
+ }
+  
+  .hitem {
+    flex-shrink: 0;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: center;
+    color: black;
+  }
+   
+
+  @keyframes tickerh {
+    0% { transform: translate3d(100%, 0, 0); }
+    100% { transform: translate3d(-400%, 0, 0); }
+  }
+  .hmove { animation: tickerh linear 7s infinite; }
+  .hmove:hover { animation-play-state: paused; 
+}
+
+
+.carra{
+    color: #333;
+    text-decoration: none;
+    font-size: 1.7em;
+    font-family: Bebas;
+    display:contents;
+    color: #fff;
+    text-align: center;
+}
+
+
+.rinaz{
+    color: #333;
+    text-decoration: none;
+    font-size: 1.7em;
+    font-family: Bebas;
+    display:contents;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.marais{
+    color: #333;
+    text-decoration: none;
+    font-size: 1.7em;
+    font-family: Bebas;
+    display:contents;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.florence {   
+    color: #333;
+    text-decoration: none;
+    font-size: 1.7em;
+    font-family: Bebas;
+    display:contents;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.linda {
+    color: #333;
+    text-decoration: none;
+    font-size: 1.7em;
+    font-family: Bebas;
+    display:contents;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.sabri {   
+    color: #333;
+    text-decoration: none;
+    font-size: 1.7em;
+    font-family: Bebas;
+    display:contents;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.yasmine {
+    color: #333;
+    text-decoration: none;
+    font-size: 1.7em;
+    font-family: Bebas;
+    display:contents;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.megan {
+    color: #333;
+    text-decoration: none;
+    font-size: 1.7em;
+    font-family: Bebas;
+    display:contents;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.lisa {
+    color: #333;
+    text-decoration: none;
+    font-size: 1.7em;
+    font-family: Bebas;
+    display:contents;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.robin {   color: #333;
+    text-decoration: none;
+    font-size: 1.7em;
+    font-family: Bebas;
+    display:contents;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    text-align: center;}
+
+.maxime {   color: #333;
+    text-decoration: none;
+    font-size: 1.7em;
+    font-family: Bebas;
+    display:contents;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    text-align: center;}
+
+.carra1 {
+    width: 330px;
+	height: 345px;
+    border-radius: 45px;
+    margin-right: 1000px;
+    margin-top: 100px;
+    margin-left:40%;
+}
+
+
+
+.rinaz1 {
+    width: 330px;
+	height: 345px;
+    border-radius: 45px;
+    margin-right: 1000px;
+    margin-top: 100px;
+    margin-left:40%;
+}
+
+.marais1 {
+    width: 330px;
+	height: 345px;
+    border-radius: 45px;
+    margin-right: 1000px;
+    margin-top: 100px;
+    margin-left:40%;
+}
+
+.florence1 {
+    width: 330px;
+	height: 345px;
+    border-radius: 45px;
+    margin-right: 1000px;
+    margin-top: 100px;
+    margin-left:40%;
+}
+
+.linda1 {
+    width: 330px;
+	height: 345px;
+    border-radius: 45px;
+    margin-right: 1000px;
+    margin-top: 100px;
+    margin-left:40%;
+}
+
+.sabri1{
+    width: 330px;
+	height: 345px;
+    border-radius: 45px;
+    margin-right: 1000px;
+    margin-top: 100px;
+    margin-left:40%;
+}
+
+
+.yasmine1{
+    width: 330px;
+	height: 345px;
+    border-radius: 45px;
+    margin-right: 1000px;
+    margin-top: 100px;
+    margin-left:40%;
+}
+
+
+.megan1{
+    width: 330px;
+	height: 345px;
+    border-radius: 45px;
+    margin-right: 1000px;
+    margin-top: 100px;
+    margin-left:40%;
+}
+
+
+.lisa1{
+    width: 330px;
+	height: 345px;
+    border-radius: 45px;
+    margin-right: 1000px;
+    margin-top: 100px;
+    margin-left:40%;
+}
+
+
+.robin1{
+    width: 330px;
+	height: 345px;
+    border-radius: 45px;
+    margin-right: 1000px;
+    margin-top: 100px;
+    margin-left:40%;
+}
+
+
+.maxime1{
+    width: 330px;
+	height: 345px;
+    border-radius: 45px;
+    margin-right: 1000px;
+    margin-top: 100px;
+    margin-left:40%;
+}
