@@ -12,7 +12,6 @@ const RegisterPlayer = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // code pour envoyer les données d'inscription à votre serveur ici
     console.log(nom, prenom, club, email, password);
   }
 

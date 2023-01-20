@@ -8,7 +8,6 @@ const LoginCoach = () => {
   
     const handleSubmit = (e) => {
       e.preventDefault();
-      // code pour envoyer les données de connexion à votre serveur ici
       console.log(email, password); 
     }
   
